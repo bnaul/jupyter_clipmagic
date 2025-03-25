@@ -12,6 +12,7 @@ license = {text = "MIT"}
 authors = [
     {name = "Brett Naul", email = "brettnaul@gmail.com"},
 ]
+urls = {Homepage = "https://github.com/bnaul/jupyter_clipmagic"}
 dependencies = [
     "pyperclip",
     "ipython",
